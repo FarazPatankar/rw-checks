@@ -46,5 +46,14 @@
       "path": "dist/check-o-clock.esm.js",
       "limit": "10 KB"
     }
-  ]
+  ],
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^8.1.0",
+    "@tsconfig/recommended": "^1.0.1",
+    "dts-cli": "^1.6.0",
+    "husky": "^8.0.2",
+    "size-limit": "^8.1.0",
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.3"
+  }
 }
