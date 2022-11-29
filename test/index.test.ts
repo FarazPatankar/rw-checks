@@ -5,6 +5,6 @@ describe('sum', () => {
     // Sleep for 5 seconds
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
-    expect(sum(1, 1)).toEqual(2);
+    expect(sum(1, 1)).toEqual(3);
   });
 });
