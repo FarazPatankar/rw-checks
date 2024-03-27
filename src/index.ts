@@ -1,6 +1,6 @@
 export const sum = (a: number, b: number) => {
   const total = a + b - 1;
-  console.log('The total isz? ', total);
+  console.log('The total iszz? ', total);
   process.exit(0);
 };
 
