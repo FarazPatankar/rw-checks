@@ -12,7 +12,6 @@
   ],
   "scripts": {
     "analyze": "size-limit --why",
-    "build": "dts build",
     "lint": "dts lint",
     "prepare": "dts build",
     "size": "size-limit",
