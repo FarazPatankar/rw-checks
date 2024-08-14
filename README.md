@@ -1,3 +1,3 @@
-# Checks
+# Railway check suites
 
-Here are some checks for you.
+A personal project for testing the check suites feature on Railway.
