@@ -16,7 +16,7 @@
     "lint": "dts lint",
     "prepare": "dts build",
     "size": "size-limit",
-    "start": "dts watch",
+    "start": "node dist/index.js",
     "test": "dts test"
   },
   "husky": {
