@@ -1,6 +1,6 @@
 export const sum = (a: number, b: number) => {
   const total = a + b;
-  console.log('The latest total why now: ', total);
+  console.log('The latest total nramch now: ', total);
 
   return total;
 };
